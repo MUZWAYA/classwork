@@ -1,0 +1,40 @@
+h1{
+    color: blue;
+    font-weight: lighter;
+    margin: 0;
+    padding: o
+}
+
+p.head{
+    background-color:chocolate
+}
+
+h2.head.tail{
+    background-color: black;
+}
+
+.head{
+    background-color: mediumorchid;
+    color: red;
+}
+
+main h2{
+    color: red;
+}
+
+
+body h2{
+    color: blue;
+}
+
+h2 ~ p{
+    color: chartreuse;
+}
+
+h2 + p{
+    color: tomato;
+}
+
+h2:hover{
+
+}
